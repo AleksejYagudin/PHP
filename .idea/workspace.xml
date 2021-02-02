@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28b2ba76-e1f0-430f-af6b-9060bf6ef359" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="28b2ba76-e1f0-430f-af6b-9060bf6ef359" name="Default Changelist" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/2.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,8 +56,16 @@
       <option name="presentableId" value="Default" />
       <updated>1612269348624</updated>
       <workItem from="1612269349645" duration="54000" />
-      <workItem from="1612269404958" duration="150000" />
+      <workItem from="1612269404958" duration="1048000" />
     </task>
+    <task id="LOCAL-00001" summary="Third commit">
+      <created>1612269609745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612269609745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,10 +82,34 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1612270452883">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612270452883" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1612269397216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612269397216" />
+    <state x="817" y="418" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1612269646977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="817" y="418" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612269646977" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1612270435274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612270435274" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612269658022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612269658022" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612270196401">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612270196401" />
   </component>
 </project>
